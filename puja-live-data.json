@@ -1,0 +1,274 @@
+{
+  "adminUser": "admin",
+  "adminPass": "puja2026",
+  "orgName": "স্মার্ট নওদাবাস সনাতন যুব সংঘ",
+  "orgAddress": "নওদাবাস, হাতীবান্ধা, লালমনিরহাট",
+  "pratimaPngUrl": "pratima.png",
+  "tickerText": "স্মার্ট নওদাবাস সনাতন যুব সংঘ কর্তৃক আয়োজিত শ্রী শ্রী সরস্বতী পূজা মহোৎসবে আপনারা সবাই আমন্ত্রিত!  |  📢 আগামী শুক্রবার বিকাল ৪:০০ ঘটিকায় মন্দির প্রাঙ্গণে পূজা প্রস্তুতিমূলক সাধারণ সভা অনুষ্ঠিত হবে, সকল সদস্যকে উপস্থিত থাকার জন্য অনুরোধ করা হলো।",
+  "pujaTargetDateISO": "2027-02-12T07:30:00",
+  "pujaBanglaDateLabel": "২৯ মাঘ, ১৪৩৩ বঙ্গাব্দ (শুক্লা পঞ্চমী)",
+  "pujaEnglishDateLabel": "১২ ফেব্রুয়ারি, ২০২৭ খ্রিস্টাব্দ (শুক্রবার)",
+  "notices": [
+    {
+      "id": 1,
+      "category": "urgent",
+      "badge": "জরুরি বিজ্ঞপ্তি",
+      "banglaDate": "০৯ কার্তিক, ১৪৩৩ বঙ্গাব্দ",
+      "englishDate": "২৫ অক্টোবর, ২০২৬ খ্রি.",
+      "title": "পূজা প্রস্তুতিমূলক জরুরি সাধারণ সভার আহ্বান",
+      "details": "স্মার্ট নওদাবাস সনাতন যুব সংঘের সকল কার্যনির্বাহী ও সাধারণ সদস্যদের জানানো যাচ্ছে যে, আসন্ন শ্রী শ্রী সরস্বতী পূজা মহোৎসবের বাজেট চূড়ান্তকরণ ও দায়িত্ব বণ্টন বিষয়ে আগামী শুক্রবার বিকাল ৪:০০ ঘটিকায় নওদাবাস কেন্দ্রীয় মন্দির প্রাঙ্গণে জরুরি সভা অনুষ্ঠিত হবে।",
+      "images": []
+    },
+    {
+      "id": 2,
+      "category": "prep",
+      "badge": "পূজা প্রস্তুতি",
+      "banglaDate": "০৮ কার্তিক, ১৪৩৩ বঙ্গাব্দ",
+      "englishDate": "২৪ অক্টোবর, ২০২৬ খ্রি.",
+      "title": "সদস্যদের পূজার চাঁদা ও প্রণামী জমা দেওয়া প্রসঙ্গে",
+      "details": "প্রতিমা বায়না, মণ্ডপ ডেকোরেশন এবং মহাপ্রসাদ আয়োজনের কাজ সুষ্ঠুভাবে সম্পন্ন করার লক্ষ্যে সকল সদস্যকে তাদের নির্ধারিত চাঁদা অর্থ কমিটির নিকট জমা দেওয়ার অনুরোধ করা হচ্ছে।",
+      "images": []
+    },
+    {
+      "id": 3,
+      "category": "urgent",
+      "badge": "জরুরি বিজ্ঞপ্তি",
+      "banglaDate": "০৭ কার্তিক, ১৪৩৩ বঙ্গাব্দ",
+      "englishDate": "২৩ অক্টোবর, ২০২৬ খ্রি.",
+      "title": "পুষ্পাঞ্জলি ও শিশুদের হাতেখড়ি (বিদ্যারম্ভ) অনুষ্ঠানের সময়সূচি",
+      "details": "সকল শিক্ষার্থী ও অভিভাবকদের জানানো যাচ্ছে যে, মা সরস্বতীর চরণে পুষ্পাঞ্জলি প্রদানের ১ম দফা সকাল ১০:০০ ঘটিকায়, ২য় দফা ১০:৩০ ঘটিকায় এবং ৩য় দফা ১১:০০ ঘটিকায় অনুষ্ঠিত হবে। অঞ্জলি শেষে ছোট শিশুদের হাতেখড়ি দেওয়া হবে।",
+      "images": []
+    },
+    {
+      "id": 4,
+      "category": "meeting",
+      "badge": "সভা ও মিটিং",
+      "banglaDate": "০৫ কার্তিক, ১৪৩৩ বঙ্গাব্দ",
+      "englishDate": "২১ অক্টোবর, ২০২৬ খ্রি.",
+      "title": "মণ্ডপ সজ্জা, আলোকসজ্জা ও স্বেচ্ছাসেবক দলের কর্মপরিকল্পনা",
+      "details": "এবারের সরস্বতী পূজায় নওদাবাস মণ্ডপকে আকর্ষণীয় আলপনা ও আধুনিক আলোকসজ্জায় সাজানোর উদ্যোগ নেওয়া হয়েছে। সকল তরুণ সদস্যকে প্রতিদিন বিকাল ৪টায় মণ্ডপ প্রাঙ্গণে উপস্থিত থাকার আহ্বান জানানো হচ্ছে।",
+      "images": []
+    }
+  ],
+  "activities": [
+    {
+      "id": 1,
+      "icon": "🎨",
+      "title": "প্রতিমা নির্বাচন, বায়না ও মাটির কাজ",
+      "team": "প্রতিমা উপ-কমিটি",
+      "progress": 90,
+      "statusText": "সম্পন্ন প্রায়",
+      "banglaDate": "কার্তিক ১৪৩৩ বঙ্গাব্দ",
+      "englishDate": "২৫ অক্টোবর, ২০২৬ খ্রি.",
+      "description": "নিপুণ মৃৎশিল্পীর হাতে শ্বেতপদ্মে আসীনা মা সরস্বতীর প্রতিমা নির্মাণের কাজ শেষ পর্যায়ে রয়েছে।",
+      "images": [
+        "https://placehold.co/600x400/5C1010/FFD54F?text=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%BE+%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A3+%E0%A7%A7",
+        "https://placehold.co/600x400/4A0E0E/FFE082?text=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%BE+%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A3+%E0%A7%A8",
+        "https://placehold.co/600x400/7F1D1D/FFD54F?text=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%BE+%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A3+%E0%A7%A9"
+      ]
+    },
+    {
+      "id": 2,
+      "icon": "🏮",
+      "title": "মণ্ডপ নির্মাণ, তোরণ ও আলোকসজ্জা",
+      "team": "ডেকোরেশন ও লাইটিং টিম",
+      "progress": 75,
+      "statusText": "দ্রুতগতিতে চলমান",
+      "banglaDate": "কার্তিক ১৪৩৩ বঙ্গাব্দ",
+      "englishDate": "২৫ অক্টোবর, ২০২৬ খ্রি.",
+      "description": "নওদাবাস মন্দির প্রাঙ্গণে আকর্ষণীয় প্যান্ডেল, প্রধান তোরণ এবং রাস্তায় রঙিন আলোকসজ্জার কাজ চলছে।",
+      "images": [
+        "https://placehold.co/600x400/4A0E0E/FFD54F?text=%E0%A6%AE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%AA+%E0%A6%B8%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE+%E0%A7%A7",
+        "https://placehold.co/600x400/6D1414/FFE082?text=%E0%A6%AE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%AA+%E0%A6%B8%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE+%E0%A7%A8",
+        "https://placehold.co/600x400/3B0707/FFD54F?text=%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A6%B8%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE+%E0%A7%A9"
+      ]
+    },
+    {
+      "id": 3,
+      "icon": "🍛",
+      "title": "মহাপ্রসাদ ও ভোগ ব্যবস্থাপনা প্রস্তুতি",
+      "team": "প্রসাদ ও অভ্যর্থনা কমিটি",
+      "progress": 80,
+      "statusText": "তালিকা চূড়ান্ত",
+      "banglaDate": "কার্তিক ১৪৩৩ বঙ্গাব্দ",
+      "englishDate": "২৫ অক্টোবর, ২০২৬ খ্রি.",
+      "description": "পূজার দিন দুপুরে সকল ভক্তবৃন্দ ও আমন্ত্রিত অতিথিদের মাঝে খিচুড়ি মহাপ্রসাদ বিতরণের প্রস্তুতি।",
+      "images": [
+        "https://placehold.co/600x400/78350F/FFD54F?text=%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%A6+%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%A4%E0%A6%BF+%E0%A7%A7",
+        "https://placehold.co/600x400/92400E/FFE082?text=%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%A6+%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%A4%E0%A6%BF+%E0%A7%A8",
+        "https://placehold.co/600x400/5C1010/FFD54F?text=%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%A6+%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%A4%E0%A6%BF+%E0%A7%A9"
+      ]
+    }
+  ],
+  "highlightsInfo": [
+    {
+      "id": 1,
+      "icon": "🌟",
+      "label": "এবারের মূল আকর্ষণ",
+      "title": "রাজহংস ও শ্বেতপদ্ম থিমের বিশেষ মণ্ডপ এবং ডিজিটাল আলপনা",
+      "proprietorName": "সার্বিক তত্ত্বাবধানে: স্মার্ট নওদাবাস সনাতন যুব সংঘ",
+      "proprietorPhone": "01700-000000",
+      "proprietorPhoto": "https://placehold.co/200x200/3B0707/FFD54F?text=%E0%A6%AF%E0%A7%81%E0%A6%AC+%E0%A6%B8%E0%A6%82%E0%A6%98",
+      "subtitle": "সন্ধ্যায় বিশেষ ধুনুচি আরতি প্রতিযোগিতা ও ভক্তিমূলক সাংস্কৃতিক সন্ধ্যা",
+      "images": [
+        "https://placehold.co/600x400/4A0E0E/FFD54F?text=%E0%A6%AE%E0%A7%82%E0%A6%B2+%E0%A6%86%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3+%E0%A6%9B%E0%A6%AC%E0%A6%BF+%E0%A7%A7",
+        "https://placehold.co/600x400/6D1414/FFE082?text=%E0%A6%AE%E0%A7%82%E0%A6%B2+%E0%A6%86%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3+%E0%A6%9B%E0%A6%AC%E0%A6%BF+%E0%A7%A8",
+        "https://placehold.co/600x400/3B0707/FFD54F?text=%E0%A6%AE%E0%A7%82%E0%A6%B2+%E0%A6%86%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3+%E0%A6%9B%E0%A6%AC%E0%A6%BF+%E0%A7%A9"
+      ]
+    },
+    {
+      "id": 2,
+      "icon": "🎪",
+      "label": "প্যান্ডেল ও ডেকোরেশন",
+      "title": "মায়ের আশীর্বাদ ডেকোরেটর এন্ড ইভেন্টস",
+      "proprietorName": "প্রোপাইটর: শ্রী রতন কুমার রায়",
+      "proprietorPhone": "01711-000000",
+      "proprietorPhoto": "https://placehold.co/200x200/5C1010/FFD54F?text=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%9F%E0%A6%B0",
+      "subtitle": "আধুনিক কাপড়, ফুল ও ঐতিহ্যবাহী কারুকাজে সম্পূর্ণ মণ্ডপ সজ্জা",
+      "images": [
+        "https://placehold.co/600x400/5C1010/FFD54F?text=%E0%A6%A1%E0%A7%87%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8+%E0%A6%9B%E0%A6%AC%E0%A6%BF+%E0%A7%A7",
+        "https://placehold.co/600x400/7F1D1D/FFE082?text=%E0%A6%A1%E0%A7%87%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8+%E0%A6%9B%E0%A6%AC%E0%A6%BF+%E0%A7%A8",
+        "https://placehold.co/600x400/4A0E0E/FFD54F?text=%E0%A6%A1%E0%A7%87%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8+%E0%A6%9B%E0%A6%AC%E0%A6%BF+%E0%A7%A9"
+      ]
+    },
+    {
+      "id": 3,
+      "icon": "🔊",
+      "label": "সাউন্ড বক্স ও আলোকসজ্জা",
+      "title": "নওদাবাস ডিজিটাল সাউন্ড এন্ড লাইটিং",
+      "proprietorName": "প্রোপাইটর: শ্রী তপন চন্দ্র বর্মন",
+      "proprietorPhone": "01722-000000",
+      "proprietorPhoto": "https://placehold.co/200x200/78350F/FFD54F?text=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%9F%E0%A6%B0",
+      "subtitle": "সুমিষ্ট ভক্তিমূলক সুরের মূর্ছনা এবং সম্পূর্ণ এলাকায় রঙিন পিক্সেল এলইডি লাইটিং",
+      "images": [
+        "https://placehold.co/600x400/78350F/FFD54F?text=%E0%A6%B8%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A1+%E0%A6%93+%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F%E0%A6%BF%E0%A6%82+%E0%A7%A7",
+        "https://placehold.co/600x400/92400E/FFE082?text=%E0%A6%B8%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A1+%E0%A6%93+%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F%E0%A6%BF%E0%A6%82+%E0%A7%A8",
+        "https://placehold.co/600x400/3B0707/FFD54F?text=%E0%A6%B8%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A1+%E0%A6%93+%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F%E0%A6%BF%E0%A6%82+%E0%A7%A9"
+      ]
+    },
+    {
+      "id": 4,
+      "icon": "🖌️",
+      "label": "প্রতিমা মৃৎশিল্পী",
+      "title": "পাল প্রতিমা শিল্পালয়, হাতীবান্ধা",
+      "proprietorName": "প্রধান শিল্পী: শ্রী বিশ্বজিৎ পাল",
+      "proprietorPhone": "01733-000000",
+      "proprietorPhoto": "https://placehold.co/200x200/4A0E0E/FFD54F?text=%E0%A6%AE%E0%A7%83%E0%A7%8E%E0%A6%B6%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%80",
+      "subtitle": "সাবেকি ও আধুনিক শৈলীর সংমিশ্রণে মনোমুগ্ধকর মা সরস্বতীর প্রতিমা",
+      "images": [
+        "https://placehold.co/600x400/4A0E0E/FFD54F?text=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%BE+%E0%A6%B6%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A7%9F+%E0%A7%A7",
+        "https://placehold.co/600x400/6D1414/FFE082?text=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%BE+%E0%A6%B6%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A7%9F+%E0%A7%A8"
+      ]
+    }
+  ],
+  "highlightPhotos": [
+    {
+      "id": 101,
+      "title": "মণ্ডপ প্রাঙ্গণে প্রধান তোরণ ও প্যান্ডেল নির্মাণের চলমান দৃশ্য",
+      "caption": "যুব সংঘের স্বেচ্ছাসেবকদের তত্ত্বাবধানে বাঁশ ও রঙিন কাপড় দিয়ে মণ্ডপ তৈরির কাজ এগিয়ে চলছে।",
+      "dateLabel": "কার্তিক ১৪৩৩ | অক্টোবর ২০২৬",
+      "images": [
+        "https://placehold.co/800x520/4A0E0E/FFD54F?text=%E0%A6%A4%E0%A7%8B%E0%A6%B0%E0%A6%A3+%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A3+%E0%A6%9B%E0%A6%AC%E0%A6%BF+%E0%A7%A7",
+        "https://placehold.co/800x520/6D1414/FFE082?text=%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B2+%E0%A6%B8%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE+%E0%A6%9B%E0%A6%AC%E0%A6%BF+%E0%A7%A8",
+        "https://placehold.co/800x520/3B0707/FFD54F?text=%E0%A6%86%E0%A6%B2%E0%A6%AA%E0%A6%A8%E0%A6%BE+%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%A4%E0%A6%BF+%E0%A6%9B%E0%A6%AC%E0%A6%BF+%E0%A7%A9",
+        "https://placehold.co/800x520/7F1D1D/FFE082?text=%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%95+%E0%A6%A6%E0%A6%B2+%E0%A6%9B%E0%A6%AC%E0%A6%BF+%E0%A7%AA"
+      ]
+    },
+    {
+      "id": 102,
+      "title": "প্রতিমা শিল্পীর নিপুণ হাতে মা সরস্বতীর সাজসজ্জা ও অলঙ্করণ",
+      "caption": "রঙ, ডাকের সাজ ও অলঙ্কার দিয়ে মা সরস্বতীর প্রতিমা সাজানোর চূড়ান্ত প্রস্তুতি চলছে।",
+      "dateLabel": "কার্তিক ১৪৩৩ | অক্টোবর ২০২৬",
+      "images": [
+        "https://placehold.co/800x520/7F1D1D/FFE082?text=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%BE+%E0%A6%B8%E0%A6%BE%E0%A6%9C%E0%A6%B8%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE+%E0%A7%A7",
+        "https://placehold.co/800x520/4A0E0E/FFD54F?text=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%BE+%E0%A6%B8%E0%A6%BE%E0%A6%9C%E0%A6%B8%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE+%E0%A7%A8",
+        "https://placehold.co/800x520/5C1010/FFE082?text=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%BE+%E0%A6%B8%E0%A6%BE%E0%A6%9C%E0%A6%B8%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE+%E0%A7%A9"
+      ]
+    }
+  ],
+  "committeeMembers": [
+    {
+      "id": 1,
+      "name": "শ্রী সুমন চন্দ্র রায়",
+      "designation": "সভাপতি",
+      "photoUrl": "https://placehold.co/300x300/4A0E0E/FFD54F?text=%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A6%BF"
+    },
+    {
+      "id": 2,
+      "name": "শ্রী পলাশ কুমার বর্মন",
+      "designation": "সাধারণ সম্পাদক",
+      "photoUrl": "https://placehold.co/300x300/7F1D1D/FFD54F?text=%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%95"
+    },
+    {
+      "id": 3,
+      "name": "শ্রী মিঠুন চন্দ্র রায়",
+      "designation": "কোষাধ্যক্ষ",
+      "photoUrl": "https://placehold.co/300x300/9A3412/FFD54F?text=%E0%A6%95%E0%A7%8B%E0%A6%B7%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B7"
+    },
+    {
+      "id": 4,
+      "name": "শ্রী নয়ন চন্দ্র রায়",
+      "designation": "সাংগঠনিক সম্পাদক",
+      "photoUrl": "https://placehold.co/300x300/4A0E0E/FFD54F?text=%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "id": "bkash",
+      "providerName": "বিকাশ",
+      "badgeText": "bKash",
+      "accountType": "বিকাশ পার্সোনাল",
+      "number": "01700-000000",
+      "colorTheme": "pink"
+    },
+    {
+      "id": "nagad",
+      "providerName": "নগদ",
+      "badgeText": "নগদ",
+      "accountType": "নগদ পার্সোনাল",
+      "number": "01700-000000",
+      "colorTheme": "orange"
+    },
+    {
+      "id": "rocket",
+      "providerName": "রকেট",
+      "badgeText": "Rocket",
+      "accountType": "রকেট পার্সোনাল",
+      "number": "01700-000000",
+      "colorTheme": "purple"
+    }
+  ],
+  "socialLinks": [
+    {
+      "id": 1,
+      "platform": "facebook_page",
+      "label": "ফেসবুক পেজ",
+      "url": "https://facebook.com"
+    },
+    {
+      "id": 2,
+      "platform": "facebook_group",
+      "label": "ফেসবুক গ্রুপ",
+      "url": "https://facebook.com/groups"
+    },
+    {
+      "id": 3,
+      "platform": "youtube",
+      "label": "ইউটিউব চ্যানেল",
+      "url": "https://youtube.com"
+    },
+    {
+      "id": 4,
+      "platform": "whatsapp",
+      "label": "হোয়াটসঅ্যাপ গ্রুপ",
+      "url": "https://wa.me/8801700000000"
+    }
+  ],
+  "cloudSyncConfig": {
+    "githubOwner": "joyprokash976-lab",
+    "githubRepo": "saraswati-puja-2026",
+    "githubBranch": "main",
+    "githubToken": "",
+    "customCloudUrl": ""
+  }
+}
